@@ -19,9 +19,9 @@ The objectives of the analysis are as follows:
 1. To perform webscraping using financial modeling prep API to extract the balnce sheets and income statements.
 2. To calculate various financial ratios key to the business.
 3. To illustrate the trend analysis and movements for the financial ratios in Power BI.
-   
 
-![image](https://github.com/26margaretwanjiru/Balance-Sheet-Analysis/assets/34502518/92301f7b-af4d-47bd-9c46-807cdaacd026)
+
+![image](https://github.com/26margaretwanjiru/Balance-Sheet-Analysis/assets/34502518/2cd0a01b-6f53-4408-9276-c7aa0217ceaa)
 
 # 4.0 Description of the Financial Ratios
 
